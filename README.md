@@ -7,7 +7,7 @@ Hello, my name is Andreas Pfohl and I'm a full-stack software developer with 7+ 
 - 🌱 I’m currently learning to be a father 🧸.
 - 👯 I’m looking to collaborate on interesting open source projects.
 - 😄 Pronouns: he/his
-- 💬 Ask me about Minecraft.
+- 💬 Ask me about compilers and Minecraft.
 - 📫 How to reach me: [Twitter](https://twitter.com/andreaspfohl) and [e-mail](mailto:mail@apfohl.com) ([GnuPG public key](https://github.com/apfohl/apfohl/raw/main/public.asc)).
 
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)

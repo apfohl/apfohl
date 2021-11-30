@@ -29,6 +29,9 @@ Hello, my name is Andreas Pfohl and I'm a full-stack software developer with 7+ 
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?logo=WebStorm&style=social)
 ![VIM](https://img.shields.io/badge/-VIM-black?logo=vim&style=social)
 ![Code](https://img.shields.io/badge/-Code-black?logo=Visual%20Studio%20Code&style=social)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=Linux&style=social)
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-black?logo=freebsd&style=social)
+![macOS](https://img.shields.io/badge/-macOS-black?logo=apple&style=social)
 
 ![Andreas Pfohl's Github Stats](https://github-readme-stats.vercel.app/api?username=apfohl&count_private=true&show_icons=true&include_all_commits=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apfohl&layout=compact)

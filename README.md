@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Andreas! 👋
+
+Hello, my name is Andreas Pfohl and I'm a full-stack software developer with 7+ years of experience from Magdeburg in Germany. Tho I started coding on quite some projects during my studies I did a lot of passion projects for way longer back starting in high school. Most of my experience comes from working at the [bridgefield GmbH](https://bridgefield.de/), where I worked on several fields like automotive industry, heavy machinery industry, security asset management and many more. I developed software components from all parts of the stack: server backends, web frontends, native clients, databases, software libraries, just to name the obvious candidates.
+
+![Andreas' Github Stats](https://github-readme-stats.vercel.app/api?username=apfohl&count_private=true&show_icons=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apfohl&layout=compact)
 
 <!--
 **apfohl/apfohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

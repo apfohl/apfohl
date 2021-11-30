@@ -8,7 +8,7 @@ Hello, my name is Andreas Pfohl and I'm a full-stack software developer with 7+ 
 - 👯 I’m looking to collaborate on interesting open source projects.
 - 😄 Pronouns: he/his
 - 💬 Ask me about Minecraft.
-- 📫 How to reach me: [Twitter](https://twitter.com/andreaspfohl)
+- 📫 How to reach me: [Twitter](https://twitter.com/andreaspfohl) and e-mail.
 
 ![Andreas' Github Stats](https://github-readme-stats.vercel.app/api?username=apfohl&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apfohl&layout=compact)

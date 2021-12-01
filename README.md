@@ -1,6 +1,6 @@
 ### Hi there, I'm Andreas! 👋
 
-Hello, my name is Andreas Pfohl and I'm a full-stack software developer with 7+ years of experience from Magdeburg in Germany. Tho I started coding on quite some projects during my studies I did a lot of passion projects for way longer back starting in high school. Most of my experience comes from working at the [bridgefield GmbH](https://bridgefield.de/) (5+ years), where I worked in several fields like the automotive industry, heavy machinery industry, security asset management, and many more. I developed software components from all parts of the stack: server backends, web frontends, native clients, databases, software libraries, just to name the obvious candidates.
+Hello, my name is Andreas Pfohl and I'm a full-stack software developer with 7+ years of experience from Magdeburg in Germany. Though I started coding on quite some projects during my studies I did a lot of passion projects for way longer back starting in high school. Most of my experience comes from working at the [bridgefield GmbH](https://bridgefield.de/) (5+ years), where I worked in several fields like the automotive industry, heavy machinery industry, security asset management, and many more. I developed software components from all parts of the stack: server backends, web frontends, native clients, databases, software libraries, just to name the obvious candidates.
 
 - 🔭 I’m currently working on open sourcing frequently used components for a day to day use.
 - 📖 I'm currently reading *Functional Programming in C#* by **Enrico Buonanno**.

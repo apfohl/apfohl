@@ -9,7 +9,7 @@ Hello, my name is Andreas Pfohl and I'm a full-stack software developer with 7+ 
 - 😄 Pronouns: he/his
 - 💬 Ask me about compilers and Minecraft.
 - 📫 How to reach me: [Twitter](https://twitter.com/andreaspfohl) and [e-mail](mailto:mail@apfohl.com) ([GnuPG public key](https://github.com/apfohl/apfohl/raw/main/public.asc)).
-- ❤️ You like what I do? Support me with some [Ko-fi](https://ko-fi.com/apfohl).
+- ❤️ You like what I do? Support me with [Ko-fi](https://ko-fi.com/apfohl).
 
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)
 ![C#](https://img.shields.io/badge/-C%23-black?logo=csharp&style=social)

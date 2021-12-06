@@ -31,6 +31,7 @@ Hello, my name is Andreas Pfohl and I'm a full-stack software developer with 7+ 
 ![VIM](https://img.shields.io/badge/-VIM-black?logo=vim&style=social)
 ![Code](https://img.shields.io/badge/-Code-black?logo=Visual%20Studio%20Code&style=social)
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=Linux&style=social)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-black?logo=Arch%20Linux&style=social)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-black?logo=freebsd&style=social)
 ![macOS](https://img.shields.io/badge/-macOS-black?logo=apple&style=social)
 

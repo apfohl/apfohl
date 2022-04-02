@@ -2,13 +2,15 @@
 
 Hello, my name is Andreas Pfohl and I'm a full-stack software developer with 7+ years of experience from Magdeburg in Germany. Though I started coding on quite some projects during my studies I did a lot of passion projects for way longer back starting in high school. Most of my experience comes from working at the [bridgefield GmbH](https://bridgefield.de/) (5+ years), where I worked in several fields like the automotive industry, heavy machinery industry, security asset management, and many more. I developed software components from all parts of the stack: server backends, web frontends, native clients, databases, software libraries, just to name the obvious candidates.
 
-- 🔭 I’m currently working on open sourcing frequently used components for a day to day use.
+Currently I'm on-boarding at [OpenProject](https://www.openproject.org/) as a full-stack software developer.
+
+- 🔭 I’m currently working on [pass](https://github.com/apfohl/pass).
 - 📖 I'm currently reading *Functional Programming in C#* by **Enrico Buonanno**.
 - 🌱 I’m currently learning to be a father 🧸.
 - 👯 I’m looking to collaborate on interesting open source projects.
 - 😄 Pronouns: he/his
 - 💬 Ask me about compilers and Minecraft.
-- 📫 How to reach me: [Twitter](https://twitter.com/andreaspfohl) and [e-mail](mailto:mail@apfohl.com) ([GnuPG public key](https://github.com/apfohl/apfohl/raw/main/public.asc)).
+- 📫 How to reach me: [Twitter](https://twitter.com/andreaspfohl) and [e-mail](mailto:mail@apfohl.com) ([GnuPG public key](https://github.com/apfohl.gpg)).
 - ❤️ You like what I do? Support me with [Ko-fi](https://ko-fi.com/apfohl).
 
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)

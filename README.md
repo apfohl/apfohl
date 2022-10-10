@@ -5,7 +5,7 @@ Hello, my name is Andreas Pfohl and I'm a full-stack software developer with 7+ 
 I'm currently working at [OpenProject](https://www.openproject.org/) as a full-stack software developer.
 
 - 🔭 I’m currently working on [pass](https://github.com/apfohl/pass).
-- 📖 I'm currently reading *Functional Programming in C#* by **Enrico Buonanno**.
+- 📖 I'm currently reading *Implementing Domain-Driven Design* by **Vaughn Vernon**.
 - 🌱 I’m currently learning to be a father 🧸.
 - 👯 I’m looking to collaborate on interesting open source projects.
 - 😄 Pronouns: he/his

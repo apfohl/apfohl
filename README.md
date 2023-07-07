@@ -9,7 +9,7 @@ I'm currently working at [OpenProject](https://www.openproject.org/) as a full-s
 - 🌱 I’m currently learning to be a father 🧸.
 - 👯 I’m looking to collaborate on interesting open source projects.
 - 😄 Pronouns: he/his
-- 💬 Ask me about Minecraft.
+- 💬 Ask me about monads.
 - 📫 How to reach me: [Mastodon](https://chaos.social/@apfohl), [Twitter](https://twitter.com/andreaspfohl) and [e-mail](mailto:mail@apfohl.com) ([GnuPG public key](https://github.com/apfohl.gpg)).
 - ❤️ You like what I do? Support me with [Ko-fi](https://ko-fi.com/apfohl).
 

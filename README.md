@@ -15,6 +15,7 @@ I'm currently working at [OpenProject](https://www.openproject.org/) as a full-s
 
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)
 ![C#](https://img.shields.io/badge/-C%23-black?logo=csharp&style=social)
+![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?logo=Ruby&style=social)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)

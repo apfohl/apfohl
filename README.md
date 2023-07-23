@@ -4,8 +4,8 @@ Hello, my name is Andreas Pfohl and I'm a full-stack software developer with 8+ 
 
 I'm currently working at [OpenProject](https://www.openproject.org/) as a full-stack software developer.
 
-- 🔭 I’m currently working on [WatsonSync](https://github.com/apfohl/WatsonSync).
-- 📖 I'm currently reading *Implementing Domain-Driven Design* by **Vaughn Vernon**.
+- 🔭 I’m currently working on a graphical desktop client for *Homematic IP*.
+- 📖 I'm currently reading *Domain Modeling Made Functional* by **Scott Wlaschin**.
 - 🌱 I’m currently learning to be a father 🧸.
 - 👯 I’m looking to collaborate on interesting open source projects.
 - 😄 Pronouns: he/his

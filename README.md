@@ -14,7 +14,7 @@ I'm currently working at [OpenProject](https://www.openproject.org/) as a full-s
 - ❤️ You like what I do? Support me with [Ko-fi](https://ko-fi.com/apfohl).
 
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)
-![C#](https://img.shields.io/badge/-C%23-black?logo=csharp&style=social)
+![C#](https://img.shields.io/badge/-C%23-black?logo=dotnet&style=social)
 ![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?logo=Ruby&style=social)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)
@@ -32,7 +32,6 @@ I'm currently working at [OpenProject](https://www.openproject.org/) as a full-s
 ![Rider](https://img.shields.io/badge/-Rider-black?logo=rider&style=social)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?logo=WebStorm&style=social)
 ![VIM](https://img.shields.io/badge/-VIM-black?logo=vim&style=social)
-![Code](https://img.shields.io/badge/-Code-black?logo=Visual%20Studio%20Code&style=social)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=Linux&style=social)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-black?logo=Arch%20Linux&style=social)

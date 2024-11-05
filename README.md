@@ -4,9 +4,8 @@ Hello, my name is Andreas Pfohl and I'm a full-stack software developer with 8+ 
 
 I'm currently working at [OpenProject](https://www.openproject.org/) as a full-stack software developer.
 
-- 🔭 I’m currently working on a graphical email client build with *Avalonia UI*.
-- 📖 I'm currently reading *Implementing Domain Driven Design* by **Vaughn Vernon**.
-- 🌱 I’m currently learning to be a father 🧸.
+- 🔭 I’m currently learning to apply Domain-Driven Design for different software projects.
+- 📖 I'm currently reading *Learning Domain-Driven Design* by **Vlad Khononov**.
 - 👯 I’m looking to collaborate on interesting open source projects.
 - 😄 Pronouns: he/his
 - 💬 Ask me about monads and DDD.

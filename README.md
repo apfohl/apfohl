@@ -8,7 +8,6 @@ Hello, my name is Andreas Pfohl and I'm a full-stack software developer with 8+ 
 - 😄 Pronouns: he/his
 - 💬 Ask me about monads and DDD.
 - 📫 How to reach me: [Mastodon](https://chaos.social/@apfohl) and [e-mail](mailto:mail@apfohl.com) ([GnuPG public key](https://github.com/apfohl.gpg)).
-- ❤️ You like what I do? Support me with [Ko-fi](https://ko-fi.com/apfohl).
 
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)
 ![C#](https://img.shields.io/badge/-C%23-black?logo=dotnet&style=social)

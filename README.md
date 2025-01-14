@@ -12,6 +12,7 @@ Hello, my name is Andreas Pfohl and I'm a full-stack software developer with 8+ 
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)
 ![C#](https://img.shields.io/badge/-C%23-black?logo=dotnet&style=social)
 ![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)
+![Rust](https://img.shields.io/badge/-Rust-black?logo=rust&style=social)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?logo=Ruby&style=social)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)
